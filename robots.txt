@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://don-berthiaume.dojoig.com/sitemap-index.xml
